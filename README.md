@@ -27,6 +27,7 @@ In your mtaserver.conf add the following resource: ```<resource src="vehicle-sys
 2. If you'd like to add more shops, there's an example left in ```g_shops.lua``` simply copy and paste that to add more shops.
 
 >Bugs
+
 If you find any bugs, please contact me,
 Discord: FlyingSpoon#6633
 
