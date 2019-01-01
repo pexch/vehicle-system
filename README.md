@@ -1,4 +1,6 @@
-# Vehicle System 0.26d
+# Vehicle System 0.26d 
+#### (Required Resource(s): [cpicker](https://community.multitheftauto.com/index.php?p=resources&s=details&id=3247))
+
 ![alt text](https://i.imgur.com/jfHD7fP.png)
 > A freeroam-rpg based vehicle system with a variety of features. This version is much more expandable, also open-source so you can freely edit, adjust and configure to your own needs.
 #
