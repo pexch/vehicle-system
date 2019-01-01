@@ -22,7 +22,8 @@
 
 #
 >Configuration
-1. To install the script simply drag and drop it in your ```resources``` folder and press start, make sure you also download the required resource - [cpicker](https://community.multitheftauto.com/index.php?p=resources&s=details&id=3247) - In your mtaserver.conf add the following resource: ```<resource src="vehicle-system" startup="1" protected="0" />```
+1. To install the script simply drag and drop it in your ```resources``` folder and press start, make sure you also download the required resource - [cpicker](https://community.multitheftauto.com/index.php?p=resources&s=details&id=3247) - 
+In your mtaserver.conf add the following resource: ```<resource src="vehicle-system" startup="1" protected="0" />```
 2. If you'd like to add more shops, there's an example left in ```g_shops.lua``` simply copy and paste that to add more shops.
 
 >Bugs
