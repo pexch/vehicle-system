@@ -12,3 +12,4 @@ A freeroam-rpg based vehicle system with a variety of features. This version is 
 - Shops expanded, now includes a Bike Shop and 2 more Carshop Locations in Los Santos; this can be configured in ```g_carshops.lua```.
 ##### Views
 ![alt text](https://i.imgur.com/BDgjRLN.png)
+![alt text](https://i.imgur.com/qrunw4H.png)
