@@ -70,7 +70,7 @@ function createPlayerVehicle(id, owner, r, g, b, x, y, z, rotX, rotY, rotZ)
 end
 
 -- Load all vehicles on script start up
-addEventHandler("onResourceStart", root, function()
+addEventHandler("onResourceStart", resourceRoot, function()
 	-- Check script version
 	local fetch = fetchRemote("https://raw.githubusercontent.com/FlyingSpoo9/vehicle-system/master/version", function(git_version)
 		local git_version = git_version:gsub("%+s","")
