@@ -18,6 +18,7 @@
 - /engine or Press J: This will allow you toggle your engine.
 - /park: This allows you to park your vehicle, which saves it's current position in-case of server/script restarts.
 - /handbrake: This allows you to put a handbrake on your vehicle, it'll disable player vehicle pushing.
+- F2: Toggles menu which shows your owned vehicles and allows you to spawn them with you in it.
 ##### Screenshots
 ![alt text](https://i.imgur.com/BDgjRLN.png)
 ![alt text](https://i.imgur.com/qrunw4H.png)
