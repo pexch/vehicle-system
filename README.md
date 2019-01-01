@@ -1,7 +1,7 @@
 # Vehicle System 0.26d
 ![alt text](https://i.imgur.com/jfHD7fP.png)
 > A freeroam-rpg based vehicle system with a variety of features. This version is much more expandable, also open-source so you can freely edit, adjust and configure to your own needs.
-###### Features
+>Features
 - Ability to purchase a car.
 - Automatically fetch shops from table, and assign vehicles with prices.
 - A panel located on F2 which shows your vehicles and lets you spawn them to you.
@@ -9,6 +9,12 @@
 - Players can enter your vehicles if they are not locked.
 - Carshop Structure improved, more RPG feeling with icons next to them and generated GUI's.
 - Shops expanded, now includes a Bike Shop and 2 more Carshop Locations in Los Santos; this can be configured in ```g_carshops.lua```.
+>Commands
+- /lock or Press K: This locks your vehicle, if you are near your vehicle it will also lock it.
+- /lights or Press L: This allows you to turn on/off your vehicle lights.
+- /engine or Press J: This will allow you toggle your engine.
+- /park: This allows you to park your vehicle, which saves it's current position in-case of server/script restarts.
+- /handbrake: This allows you to put a handbrake on your vehicle, it'll disable player vehicle pushing.
 ##### Screenshots
 ![alt text](https://i.imgur.com/BDgjRLN.png)
 ![alt text](https://i.imgur.com/qrunw4H.png)
