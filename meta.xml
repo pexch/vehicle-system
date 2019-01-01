@@ -1,0 +1,26 @@
+<meta>
+	<info author="FlyingSpoon" type="script" name="Vehicle System" />
+	
+	<oop>true</oop>
+	<!-- Shared Files -->
+	<script src="g_carshops.lua" type="shared"/>
+	<!-- End -->
+
+	<!-- SQL Files -->
+	<script src="s_sql.lua" type="server"/>
+	<!-- End -->
+	
+	<!-- Carshop -->
+	<script src="c_carshops.lua" type="client"/>
+	<script src="s_carshops.lua" type="server"/>
+	<!-- End -->
+	
+	<!-- Vehicle System -->
+	<script src="c_vehicle_system.lua" type="client"/>
+	<script src="s_vehicle_system.lua" type="server"/>
+	<!-- End -->
+	
+	<!-- Tuning System -->
+	<!-- Coming soon -->
+	<!-- End-->
+</meta>
