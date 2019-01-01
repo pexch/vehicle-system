@@ -19,6 +19,16 @@
 - /park: This allows you to park your vehicle, which saves it's current position in-case of server/script restarts.
 - /handbrake: This allows you to put a handbrake on your vehicle, it'll disable player vehicle pushing.
 - F2: Toggles menu which shows your owned vehicles and allows you to spawn them with you in it.
+
+#
+>Configuration
+1. To install the script simply drag and drop it in your ```resources``` folder and press start, make sure you also download the required resource - [cpicker](https://community.multitheftauto.com/index.php?p=resources&s=details&id=3247) - In your mtaserver.conf add the following resource: ```<resource src="vehicle-system" startup="1" protected="0" />```
+2. If you'd like to add more shops, there's an example left in ```g_shops.lua``` simply copy and paste that to add more shops.
+
+>Bugs
+If you find any bugs, please contact me,
+Discord: FlyingSpoon#6633
+
 ##### Screenshots
 ![alt text](https://i.imgur.com/BDgjRLN.png)
 ![alt text](https://i.imgur.com/qrunw4H.png)
