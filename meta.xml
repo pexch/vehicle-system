@@ -1,7 +1,10 @@
 <meta>
-	<info author="FlyingSpoon" type="script" name="Vehicle System" />
-	
+	<info author="FlyingSpoon" type="script" name="Vehicle System"/>
 	<oop>true</oop>
+	
+	<!-- Require cpicker from https://community.mtasa.com/index.php?p=resources&s=details&id=3247 -->
+	<include resource="cpicker"/>
+	
 	<!-- Shared Files -->
 	<script src="g_carshops.lua" type="shared"/>
 	<!-- End -->
